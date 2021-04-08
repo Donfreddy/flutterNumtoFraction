@@ -1,0 +1,17 @@
+name: num_to_fraction
+description: Convert number to fraction.
+version: 1.0.0
+author: Don freddy
+homepage:
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
