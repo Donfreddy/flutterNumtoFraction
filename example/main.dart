@@ -9,7 +9,7 @@ main() {
 
   print(fraction.num2fraction(0));
   // => 0
-  print(fraction.num2fraction(.2));
+  print(fraction.num2fraction(0.2));
   // => 1/5
   print(fraction.num2fraction(1.1));
   // => 11/10
